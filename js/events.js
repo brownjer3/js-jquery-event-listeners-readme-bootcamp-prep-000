@@ -18,6 +18,7 @@ function pressIt() {
     alert('a true G');
     return;
   };
+  return;
   });
 }
 
