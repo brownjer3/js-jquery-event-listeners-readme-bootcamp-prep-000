@@ -13,8 +13,8 @@ function frameIt() {
 }
 
 function pressIt() {
-  $('#typing').on('keydown', function () {
-    
+  $('#typing').on('keydown', function (key) {
+    if ()
   });
 }
 
