@@ -16,6 +16,7 @@ function pressIt() {
   $('#typing').on('keydown', function(key) {
     if (key.which === 72) {
     alert('a true G');
+    return;
   };
   });
 }
