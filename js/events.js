@@ -19,7 +19,9 @@ function pressIt() {
   });
 }
 
-//72
+function submitIt() {
+  
+}
 
 $(document).ready(function(){
 
