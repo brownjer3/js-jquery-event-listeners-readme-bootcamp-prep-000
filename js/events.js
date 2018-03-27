@@ -14,8 +14,9 @@ function frameIt() {
 
 function pressIt() {
   $('#typing').on('keydown', function(key) {
-    if (key.which === 72) {}
+    if (key.which === 72) {
     alert('a true G');
+  };
   });
 }
 
